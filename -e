@@ -1,4 +1,4 @@
-Exception encountered: #<LoadError: cannot load such file -- /home/Jose/Desktop/Learning Ruby/rails/sample_app/signup with valid information>
+Exception encountered: #<SyntaxError: /home/Jose/Desktop/Learning Ruby/rails/sample_app/spec/requests/authentication_pages_spec.rb:39: syntax error, unexpected keyword_end, expecting $end>
 backtrace:
 /usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:245:in `load'
 /usr/local/rvm/gems/ruby-1.9.3-p194/gems/activesupport-3.2.8/lib/active_support/dependencies.rb:245:in `block in load'

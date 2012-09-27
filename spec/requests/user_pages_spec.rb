@@ -43,5 +43,6 @@ describe "User pages" do
         expect { click_button submit }.to change(User, :count).by(1)
       end
     end
+    
   end
 end
