@@ -11,9 +11,11 @@ gem 'jquery-rails', '2.0.2'
 group :development, :test do
   gem 'sqlite3', '1.3.5'
   gem 'rspec-rails', '2.11.0'
-  # gem 'guard-rspec', '1.2.1'
-  # gem 'guard-spork', '1.2.0'  
-  # gem 'spork', '0.9.2'
+  gem 'guard-rspec', '1.2.1'
+  gem 'guard-spork', '1.2.0'  
+  gem 'spork', '0.9.2'
+  gem 'rb-inotify', '0.8.8'
+
 end
 
 # Gems used only for assets and not required
